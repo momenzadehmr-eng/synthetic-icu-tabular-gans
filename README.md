@@ -2,7 +2,7 @@
 
 **Authors:** Mohammadreza Momenzadeh¹², Atiyeh Oshaghi³
 **Affiliation:** Isfahan University of Medical Sciences, Isfahan, Iran
-**Journal:** BioData Mining (under revision)
+
 
 ---
 
@@ -201,7 +201,7 @@ If you use this code, please cite:
   title   = {Lightweight Privacy-Preserving Synthetic ICU Data Generation Using Tabular GANs on MIMIC-IV},
   author  = {Momenzadeh, Mohammadreza and Oshaghi, Atiyeh},
   journal = {BioData Mining},
-  year    = {2024}
+  year    = {2026}
 }
 ```
 
