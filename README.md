@@ -200,7 +200,6 @@ If you use this code, please cite:
 @article{momenzadeh2024synthetic,
   title   = {Lightweight Privacy-Preserving Synthetic ICU Data Generation Using Tabular GANs on MIMIC-IV},
   author  = {Momenzadeh, Mohammadreza and Oshaghi, Atiyeh},
-  journal = {BioData Mining},
   year    = {2026}
 }
 ```
