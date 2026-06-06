@@ -205,7 +205,3 @@ If you use this code, please cite:
 
 ---
 
-## License
-
-This project is released under the MIT License.
-Data from MIMIC-IV is subject to PhysioNet's data use agreement.
