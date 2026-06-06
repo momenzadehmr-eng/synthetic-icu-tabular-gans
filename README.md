@@ -1,4 +1,4 @@
-# Lightweight Privacy-Preserving Synthetic ICU Data Generation Using Tabular GANs on MIMIC-IV
+# Generating Synthetic ICU Data with Lightweight Tabular GANs: Balancing Fidelity, Privacy, Utility, and Efficiency
 
 **Authors:** Mohammadreza Momenzadeh¹², Atiyeh Oshaghi³
 **Affiliation:** Isfahan University of Medical Sciences, Isfahan, Iran
