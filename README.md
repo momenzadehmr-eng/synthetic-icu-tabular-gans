@@ -1,7 +1,6 @@
 # Generating Synthetic ICU Data with Lightweight Tabular GANs: Balancing Fidelity, Privacy, Utility, and Efficiency
 
-**Authors:** Mohammadreza Momenzadeh¹², Atiyeh Oshaghi³
-**Affiliation:** Isfahan University of Medical Sciences, Isfahan, Iran
+**Authors:** Mohammadreza Momenzadeh 1,2*, Mustafa Ghaderzadeh3, Atiyeh Oshaghi4
 
 
 ---
@@ -197,9 +196,9 @@ Results are reported as mean ± SD with 95% bootstrap confidence intervals (BCa,
 If you use this code, please cite:
 
 ```bibtex
-@article{momenzadeh2024synthetic,
-  title   = {Lightweight Privacy-Preserving Synthetic ICU Data Generation Using Tabular GANs on MIMIC-IV},
-  author  = {Momenzadeh, Mohammadreza and Oshaghi, Atiyeh},
+@article{momenzadeh2026synthetic,
+  title   = {Generating Synthetic ICU Data with Lightweight Tabular GANs: Balancing Fidelity, Privacy, Utility, and Efficiency},
+  author  = {Momenzadeh, Mohammadreza: Ghaderzadeh, Mustafa and Oshaghi, Atiyeh},
   year    = {2026}
 }
 ```
